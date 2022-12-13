@@ -1,0 +1,10 @@
+.dialogsWrapper {
+ display: grid;
+ grid-template-columns: 2fr 5fr;
+ gap: 2rem;
+}
+
+.dialogItem {
+ padding: 10px;
+ background-color: #988;
+}

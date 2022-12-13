@@ -1,0 +1,9 @@
+.nav {
+ grid-column: span 2;
+ background-color: #988;
+ padding: 20px;
+}
+
+.active {
+ opacity: 0.5;
+}

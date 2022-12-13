@@ -1,0 +1,8 @@
+.header {
+ grid-column: span 10;
+ background-color: #988;
+}
+
+.logo {
+ width: 100px;
+}
